@@ -4,4 +4,7 @@
 
 ## Instructions
 
+## Requirements:
+source code, notebook, file submission
+
 ## Description
