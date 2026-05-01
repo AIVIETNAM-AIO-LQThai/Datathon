@@ -1,0 +1,15 @@
+group,n_features
+dynamic_target_history,254
+sales_target_prior,38
+calendar,34
+damped_anchor_or_drift_control,29
+spike_drop_momentum_state,26
+official_product_mix_expectation,20
+official_orders_historical_expectation,14
+official_customer_lifecycle_expectation,8
+official_payment_share_rate_expectation,8
+date_regime_cluster_proxy,4
+official_inventory_recent_rate_expectation,4
+historical_expectation_prior,4
+other_numeric,3
+margin_history_or_prior,1
