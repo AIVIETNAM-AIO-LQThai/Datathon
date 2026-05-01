@@ -3,6 +3,7 @@
 ## Config
 pip install optuna pickle scikit-learn pathlib numpy pandas matplotlib.pyplot json
 Cấu trúc thư mục
+
 Datathon/
 ├── Feature Engineering/
 │   ├── sales.csv
@@ -36,6 +37,7 @@ Notebook này sẽ tạo ra các tập dữ liệu đặc trưng dùng cho huấ
 | Fold A | 2012-07-04 → 2021-12-31 | 2022-01-01 → 2022-12-31 | Fold chính, gần giai đoạn forecast nhất |
 | Fold B | 2012-07-04 → 2020-12-31 | 2021-01-01 → 2021-12-31 | Kiểm tra độ ổn định |
 | Fold C | 2012-07-04 → 2021-06-30 | 2021-07-01 → 2022-06-30 | Kiểm tra horizon 12 tháng |
+
 (2)
 
 ## Requirements:
